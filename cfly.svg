@@ -2,25 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="198mm"
+   width="200.00002mm"
    height="198mm"
-   viewBox="0 0 198 198"
+   viewBox="0 0 200.00002 198"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="cfly.svg">
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2">
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient913">
       <stop
          style="stop-color:#f7f7ff;stop-opacity:1;"
@@ -32,7 +27,6 @@
          id="stop911" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient913"
        id="linearGradient919"
        x1="51.858482"
@@ -42,7 +36,6 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(4.8004491,0.23258972)" />
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient913"
        id="linearGradient994"
        x1="12.999935"
@@ -52,24 +45,6 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.1302913,0,0,1.1302914,-5.6209713,-2.2939971)" />
   </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="1.1198022"
-     inkscape:cx="211.19802"
-     inkscape:cy="409.89382"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="1848"
-     inkscape:window-height="1016"
-     inkscape:window-x="72"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -78,70 +53,38 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-99)">
     <path
-       style="fill:#000056;fill-opacity:1;stroke:#3b00bb;stroke-width:0.44087803;stroke-opacity:0.17647059"
+       style="fill:#000056;fill-opacity:1;stroke:#3b00bb;stroke-width:0.440878;stroke-opacity:0.176471"
        id="path75"
-       sodipodi:type="arc"
-       sodipodi:cx="95.738182"
-       sodipodi:cy="197.2458"
-       sodipodi:rx="83.497231"
-       sodipodi:ry="55.337795"
-       sodipodi:start="0.75174711"
-       sodipodi:end="0.67247697"
-       d="m 156.73265,235.03687 a 83.497231,55.337795 0 0 1 -116.79619,3.37396 83.497231,55.337795 0 0 1 -7.404303,-77.32462 83.497231,55.337795 0 0 1 116.502733,-6.43853 83.497231,55.337795 0 0 1 12.0216,77.06945"
-       sodipodi:open="true" />
-    <flowRoot
+       d="m 156.73265,235.03687 a 83.497231,55.337795 0 0 1 -116.79619,3.37396 83.497231,55.337795 0 0 1 -7.404303,-77.32462 83.497231,55.337795 0 0 1 116.502733,-6.43853 83.497231,55.337795 0 0 1 12.0216,77.06945" />
+    <text
        xml:space="preserve"
-       id="flowRoot59"
-       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
-         id="flowRegion61"><rect
-           id="rect63"
-           width="87.515457"
-           height="58.93898"
-           x="159.84966"
-           y="278.62061" /></flowRegion><flowPara
-         id="flowPara65"></flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot67"
-       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
-         id="flowRegion69"><rect
-           id="rect71"
-           width="574.20856"
-           height="280.40668"
-           x="-119.66399"
-           y="164.31471" /></flowRegion><flowPara
-         id="flowPara73"></flowPara></flowRoot>    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:12.68115616px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient919);fill-opacity:1;stroke:none;stroke-width:0.31702888"
+       style="font-style:normal;font-weight:normal;font-size:12.6812px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient919);fill-opacity:1;stroke:none;stroke-width:0.317029"
        x="35.465336"
        y="217.23877"
        id="text57"
        transform="scale(0.98439478,1.0158526)"><tspan
-         sodipodi:role="line"
          id="tspan55"
          x="35.465336"
          y="217.23877"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60.8695488px;font-family:AnjaliOldLipi;-inkscape-font-specification:'AnjaliOldLipi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient919);fill-opacity:1;stroke-width:0.31702888">FLY</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60.8695px;font-family:AnjaliOldLipi;-inkscape-font-specification:'AnjaliOldLipi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient919);fill-opacity:1;stroke-width:0.317029">FLY</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:179.0370636px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient994);fill-opacity:1;stroke:none;stroke-width:50.75066757;stroke-miterlimit:4;stroke-dasharray:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:179.037px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient994);fill-opacity:1;stroke:none;stroke-width:50.7507;stroke-miterlimit:4;stroke-dasharray:none"
        x="-0.98060703"
        y="307.15231"
        id="text986"
        transform="scale(1.2271599,0.81488973)"><tspan
-         sodipodi:role="line"
          id="tspan984"
          x="-0.98060703"
          y="307.15231"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:179.0370636px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient994);fill-opacity:1;stroke-width:50.75066757;stroke-miterlimit:4;stroke-dasharray:none">C</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:179.037px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient994);fill-opacity:1;stroke-width:50.7507;stroke-miterlimit:4;stroke-dasharray:none">C</tspan></text>
   </g>
 </svg>
